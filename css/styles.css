@@ -18,6 +18,7 @@ body {
     background-repeat: no-repeat;
     background-attachment: scroll;
     font-family: "Red Hat Display";
+    max-width: 1440px;
 }
   
 .order-summary {
