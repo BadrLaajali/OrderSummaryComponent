@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-https://github.com/Ikosane/OrderSummaryComponent/blob/main/images/OrderSummaryComponent.png
+![](./images/OrderSummaryComponent.png)
 
 ### Links
 
